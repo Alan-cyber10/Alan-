@@ -1,97 +1,176 @@
-👋 Hey, I'm Mahdiar
-
-💻 Developer | 🤖 Robotics Enthusiast | 🧠 AI & LLM Explorer 
-
-￼ 
-
-￼ 
+<h1 align="center">⚡ Backend Developer | Python Developer</h1><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+Developer;Django+Developer;Cybersecurity+Enthusiast;Linux+%7C+Kali+Linux;Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
+</p>---
 
 🧑‍💻 About Me
 
-💻 Developer 🤖 Robotics & Embedded Systems Enthusiast 🧠 Interested in AI, LLMs & Automated Testing 🐍 Python Developer ⚙️ C# / .NET Developer 🔌 Arduino & ESP Projects 🐧 Linux User 🚀 Always building, learning and experimenting 
+class Developer:
 
-🔭 Currently working on AI / LLM Testing & Promptfoo
+    def __init__(self):
+        self.name = "YOUR NAME"
+        self.role = "Backend Developer"
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
 
-🤖 Building projects with Arduino, ESP8266 and sensors
+        self.frameworks = [
+            "Django",
+            "React"
+        ]
 
-🌱 Currently learning more about AI, Robotics & Software Development
+        self.os = [
+            "Linux",
+            "Kali Linux"
+        ]
 
-🧪 Interested in LLM Evaluation, Red Teaming & Automated Testing
+        self.interests = [
+            "Backend Development",
+            "Cybersecurity",
+            "Networking",
+            "Linux",
+            "Automation",
+            "AI & LLMs"
+        ]
 
-🛠️ I enjoy turning ideas into real projects
+    def current_goal(self):
+        return "Build powerful systems and keep learning."
+
+---
 
 ⚡ Tech Stack
 
-💻 Programming
+💻 Programming Languages
 
-￼ ￼ ￼ ￼ 
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
+</p>🚀 Frameworks & Development
 
-🤖 Robotics & Embedded
+<p>
+<img src="https://skillicons.dev/icons?i=django,react" />
+</p>🐧 Linux & Cybersecurity
 
-￼ ￼ ￼ 
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>🛠️ Tools
 
-🌐 Web & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
+</p>---
 
-￼ ￼ ￼ ￼ ￼ 
+🔥 What I Do
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🐍 Python Backend Development              │
+│   🌐 Django & REST APIs                     │
+│   ⚛️ React Frontend                         │
+│   🗄️ Database & API Development             │
+│   🐧 Linux & Kali Linux                     │
+│   🔐 Cybersecurity & Networking              │
+│   ⚙️ Automation & Scripting                 │
+│   🤖 AI / LLM Experimentation               │
+│                                              │
+└──────────────────────────────────────────────┘
+
+---
 
 🚀 Featured Projects
 
-🤖 Arduino & Robotics
+🌐 Project 01 — DNS Service Platform
 
-Embedded systems, sensors, motors, motor drivers and robotic projects.
+«A web platform for managing and selling dedicated DNS services.»
 
-Technologies:
-Arduino C/C++ Sensors Motors L298N Embedded Systems
+Stack: Python • Django • React • REST API • Linux
 
-🧠 AI & LLM Testing
+🔗 "View Project" (YOUR_PROJECT_LINK)
 
-Exploring LLM evaluation, automated testing, datasets and red-team techniques.
+---
 
-Technologies:
-Python Promptfoo LLM AI Testing Datasets
+🤖 Project 02 — AI / LLM Testing
 
-🌐 Dedicated DNS Platform
+«Experiments and tools for evaluating LLM applications, automated testing and red-team scenarios.»
 
-A web platform for managing dedicated DNS services, users, plans and subscriptions.
+Stack: Python • Promptfoo • LLMs • Automation
 
-Technologies:
-Python Django REST API React JWT SQLite
+🔗 "View Project" (YOUR_PROJECT_LINK)
 
-💻 C# Projects
+---
 
-Desktop and software projects built with C# and .NET.
+🛠️ Project 03 — More Coming Soon...
 
-Technologies:
-C# .NET Windows Forms
+$ sudo apt update
+$ sudo apt upgrade
 
-🧠 Currently Exploring
+> Building...
+> Learning...
+> Experimenting...
+> Deploying...
 
-AI & Large Language Models ↓ LLM Evaluation ↓ Automated Testing ↓ Red Teaming ↓ AI Security 
-
-And on the hardware side:
-
-Arduino → Sensors → Motors → Controllers → Robotics 
+---
 
 📊 GitHub Stats
 
-￼ ￼ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
+</p>---
 
-🔥 Contribution Streak
+🧠 Currently Learning
 
-￼ 
+[+] Advanced Python
+[+] Django & REST API
+[+] React
+[+] Linux
+[+] Networking
+[+] Cybersecurity
+[+] Docker
+[+] AI / LLM
+[+] System Design
 
-🐍 Contribution Snake
+---
 
-￼ 
+🌐 Connect With Me
 
-🎯 My Goals
+<p align="center"><a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+</a><a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+</a><a href="YOUR_TELEGRAM_LINK">
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41"/>
+</a><a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
+</a></p>---
 
-[✓] Learn Programming [✓] Build Real Projects [✓] Explore Robotics [✓] Work with AI & LLMs [ ] Build Advanced AI Systems [ ] Build Advanced Robotics Projects [ ] Become a Professional Developer [ ] Build Something People Actually Use 🚀 
+💀 Terminal
 
-📫 Connect With Me
+┌──(developer㉿github)-[~/projects]
+└─$ whoami
 
-￼ ￼ 
+Backend Developer
 
-⚡ Build. Break. Learn. Repeat. ⚡ 
+┌──(developer㉿github)-[~/projects]
+└─$ cat motivation.txt
 
-Thanks for visiting my profile! 🚀
+Ne
+
+ver stop learning.
+Never stop building.
+Never stop breaking limits.
+
+┌──(developer㉿github)-[~/projects]
+└─$ _
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer"/>
+</p><h3 align="center">
+  ⚡ Code. Build. Break. Learn. Repeat. ⚡
+</h3>
