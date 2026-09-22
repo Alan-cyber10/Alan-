@@ -1,199 +1,121 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:001a00,100:00ff41&text=MAHDIAR&fontColor=00FF41&fontSize=70&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20PYTHON%20%7C%20CYBERSECURITY&descAlignY=58&descSize=18&animation=twinkling"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E+Backend+Developer;%3E+Python+Engineer;%3E+Django+Developer;%3E+Linux+%7C+Kali+Linux;%3E+Cybersecurity+Enthusiast;%3E+Building+the+future..."/><br><img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00FF41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/OS-LINUX-00FF41?style=for-the-badge&labelColor=000000"/></div>---
+<div align="center"><a href="https://github.com/YOUR_USERNAME">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,45:001a08,75:003d19,100:00ff41&text=MAHDIAR&fontColor=00FF41&fontSize=72&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20PYTHON%20%7C%20CYBERSECURITY&descColor=FFFFFF&descAlignY=58&descSize=18&animation=twinkling"/>
+</a><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+Python+Backend+Developer;%3E+Django+Developer;%3E+Linux+%7C+Kali+Linux;%3E+Cybersecurity+Enthusiast;%3E+Networking+%26+Automation;%3E+Building+Something+Powerful..." /><br><br>
 
-"root@mahdia r:~# ./identity"
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/></div>---
 
-╭──────────────────────────────────────────────────────────────╮
+<div align="center">⚡ "SYSTEM STATUS"
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ROLE-BACKEND%20DEVELOPER-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=050505"/></div><br><table align="center">
+<tr>
+<td width="50%" align="center">🧠 BACKEND
+
+<img src="https://skillicons.dev/icons?i=python,django,cpp" /></td><td width="50%" align="center">🌐 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></td>
+</tr><tr>
+<td width="50%" align="center">🐧 SYSTEM
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" /></td><td width="50%" align="center">🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /></td>
+</tr>
+</table>---
+
+<div align="center">🐍 "TECH STACK"
+
+<img src="https://skillicons.dev/icons?i=python,django,cpp,javascript,html,css,react,linux,kali,bash,git,github,docker,vscode,postman&perline=8" /><br><br>
+
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-00FF41?style=for-the-badge&logo=django&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=black"/></div>---
+
+<div align="center">🚀 "FEATURED PROJECTS"
+
+</div><table align="center">
+<tr><td width="50%" align="center"><h3>🌐 DNS SERVICE PLATFORM</h3><img src="https://dummyimage.com/600x300/050505/00ff41&text=DNS+SERVICE+PLATFORM" width="90%"/><br><br>
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41"/><br><br>
+
+<a href="YOUR_DNS_PROJECT_LINK">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a></td><td width="50%" align="center"><h3>🤖 LLM SECURITY LAB</h3><img src="https://dummyimage.com/600x300/050505/00ff41&text=LLM+SECURITY+LAB" width="90%"/><br><br>
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Promptfoo-000000?style=flat-square&logoColor=00ff41"/><br><br>
+
+<a href="YOUR_LLM_PROJECT_LINK">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a></td></tr>
+</table>---
+
+<div align="center">💻 "DEVELOPER CONSOLE"
+
+</div>╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   USER        : Mahdiar                                      │
-│   ROLE        : Backend Developer                            │
-│   SPECIALTY   : Python / Django                              │
-│   ENVIRONMENT : Linux / Kali Linux                           │
-│   INTERESTS   : Cybersecurity / Networking / AI              │
-│   STATUS      : ● ONLINE                                     │
+│  root@mahd
+
+i ar:~$ whoami                                   │
+│                                                              │
+│  Backend Developer                                           │
+│                                                              │
+│  root@mahd i ar:~$ python --version                         │
+│  Python Developer                                            │
+│                                                              │
+│  root@mahd i ar:~$ systemctl status developer               │
+│                                                              │
+│  ● developer.service - ACTIVE                                │
+│     Loaded: loaded                                           │
+│     Active: running                                          │
+│     Focus : Backend / Linux / Cybersecurity                   │
+│                                                              │
+│  root@mahd i ar:~$ █                                        │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 
-«I build backend systems, APIs and automation tools — while continuously exploring Linux, networking, cybersecurity and AI.»
-
 ---
 
-"root@mahdia r:~# cat /etc/skills"
+<div align="center">📊 "GITHUB ANALYTICS"
 
-╔══════════════════════════════════════════════════════════════╗
-║                       TECH MATRIX                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] BACKEND                                                ║
-║       ├── Python                                             ║
-║       ├── Django                                             ║
-║       └── REST API                                           ║
-║                                                              ║
-║  [02] FRONTEND                                               ║
-║       ├── HTML                                               ║
-║       ├── CSS                                                ║
-║       ├── JavaScript                                         ║
-║       └── React                                              ║
-║                                                              ║
-║  [03] SYSTEM                                                 ║
-║       ├── Linux                                              ║
-║       ├── Kali Linux                                         ║
-║       ├── Bash                                               ║
-║       └── Networking                                          ║
-║                                                              ║
-║  [04] PROGRAMMING                                            ║
-║       ├── Python                                             ║
-║       ├── C++                                                ║
-║       └── JavaScript                                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,django,cpp,javascript,html,css,react,linux,kali,bash,git,github,docker,vscode,postman&perline=8"/></div>---
-
-"root@mahdia r:~# ./system_scan"
-
-[+] Initializing developer scan...
-
-[████████████████████████████████████████] Python
-[██████████████████████████████████████░░] Django
-[████████████████████████████████████░░░░] Linux
-[██████████████████████████████████░░░░░░] Git
-[████████████████████████████████░░░░░░░░] JavaScript
-[██████████████████████████████░░░░░░░░░░] React
-[████████████
-
-████████████████░░░░░░░░░░░░] C++
-[██████████████████████████░░░░░░░░░░░░░░] Networking
-
-[+] Scan complete.
-[+] No limits detected.
-
----
-
-"root@mahdia r:~# ls -la ~/projects"
-
-drwxr-xr-x  DNS-SERVICE/
-drwxr-xr-x  LLM-SECURITY/
-drwxr-xr-x  PYTHON-PROJECTS/
-drwxr-xr-x  NETWORKING/
-drwxr-xr-x  AUTOMATION/
-
-"01 // DNS SERVICE PLATFORM"
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Dedicated DNS Management Platform                          │
-│                                                             │
-│  Backend    : Django                                       │
-│  Frontend   : React                                        │
-│  API        : REST                                         │
-│  Server     : Linux                                        │
-│  Features   : Authentication / Dashboard / Subscription   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-"Python" "Django" "React" "REST API" "Linux"
-
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
-</a>---
-
-"02 // LLM SECURITY LAB"
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  LLM Testing & Red Team Research                            │
-│                                                             │
-│  → Dataset Templates                                        │
-│  → Automated Testing                                        │
-│  → Prompt Evaluation                                        │
-│  → Red Team Scenarios                                       │
-│  → LLM Security Research                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-"Python" "Promptfoo" "LLM" "Automation"
-
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
-</a>---
-
-"root@mahdia r:~# ./mission"
-
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   CURRENT MISSION                                           │
-│                                                             │
-│   [✓] Master Python                                         │
-│   [✓] Build Django APIs                                     │
-│   [✓] Learn Linux                                           │
-│   [✓] Explore Networking                                    │
-│   [→] Advanced Cybersecurity                                │
-│   [→] Docker & Infrastructure                               │
-│   [→] AI / LLM Security                                     │
-│   [→] System Architecture                                   │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-
----
-
-"root@mahdia r:~# neofetch"
-
-                    ███████████████████
-                ████                   ████
-              ███                         ███
-            ███        M A H D I A R        ███
-           ██                                 ██
-          ██       BACKEND DEVELOPER          ██
-          ██                                   ██
-           ██       PYTHON / DJANGO           ██
-            ███     LINUX / CYBER             ███
-              ███                         ███
-                ████                   ████
-                    ███████████████████
-
-        ─────────────────────────────────────────
-
-        OS          : Linux
-        Shell       : Bash
-        Language    : Python
-        Framework   : Django
-        Frontend    : React
-        Editor      : VS Code
-        Environment : Kali Linux
-        Status      : ONLINE
-
----
-
-"root@mahdia r:~# github --analytics"
-
-<div align="center"><img src="https://github-readme-stats.ve
-
-rcel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true"/><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=050505&title_color=00FF41&text_color=FFFFFF"/><br><br>
+<br><img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=FFFFFF"/><br><br>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&hide_border=true"/></div>---
 
-"root@mahdia r:~# ./activity"
+<div align="center">🟢 "CONTRIBUTION MATRIX"
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/></div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=MAHDIAR%20ACTIVITY%20MATRIX"/></div>---
 
-"root@mahdia r:~# ./connect"
+<div align="center">⚙️ "CURRENTLY BUILDING"
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                     ESTABLISH CONNECTION                     ║
-║                                                              ║
-║        GitHub      →      YOUR_GITHUB_LINK                   ║
-║        LinkedIn    →      YOUR_LINKEDIN_LINK                 ║
-║        Telegram    →      YOUR_TELEGRAM_LINK                 ║
-║        Email       →      YOUR_EMAIL                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<table>
+<tr>
+<td align="center">🐍<br><b>Advanced Python</b></td>
+<td align="center">🌐<br><b>Django APIs</b></td>
+<td align="center">⚛️<br><b>React</b></td>
+<td align="center">🐧<br><b>Linux</b></td>
+</tr><tr>
+<td align="center">🔐<br><b>Cybersecurity</b></td>
+<td align="center">🌍<br><b>Networking</b></td>
+<td align="center">🤖<br><b>AI / LLM</b></td>
+<td align="center">🐳<br><b>Docker</b></td>
+</tr>
+</table></div>---
 
-<div align="center"><a href="YOUR_GITHUB_LINK">
+<div align="center">🔥 "MY PHILOSOPHY"
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/></div>---
+
+<div align="center">🌐 "CONNECT"
+
+<a href="YOUR_GITHUB_LINK">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a><a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
@@ -201,21 +123,11 @@ rcel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=05
 <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
 </a><a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-</a></div>---
+</a><br><br>
 
-<div align="center">┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ sudo systemctl status developer                         │
-│                                                              │
-│   ● developer.service                                        │
-│      Loaded: loaded                                         │
-│      Active: active (running)                                │
-│      Status: building something extraordinary...             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<img src="https://img.shields.io/badge/OPEN%20TO%20BUILD-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-00FF41?style=for-the-badge&labelColor=050505"/></div>---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=160&section=footer&animation=twinkling"/>"[ SYSTEM ONLINE ]"
-
-"Code • Build • Break • Learn • Repeat"
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00ff41,45:003d19,75:001a08,100:050505&section=footer&animation=twinkling"/>"⚡ CODE • BUILD • BREAK • LEARN • REPEAT ⚡"
 
 </div>
