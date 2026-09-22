@@ -1,62 +1,97 @@
-# Hi, I'm Mahdiar 👋
+👋 Hey, I'm Mahdiar
 
-💻 Computer Science / Software Development Student  
-🤖 Interested in Robotics, AI & Embedded Systems
+💻 Developer | 🤖 Robotics Enthusiast | 🧠 AI & LLM Explorer 
 
-## 🚀 About Me
+￼ 
 
-I'm interested in software development, robotics, embedded systems
-and artificial intelligence.
+￼ 
 
-Currently learning and working with:
+🧑‍💻 About Me
 
-- Python
-- C#
-- Arduino
-- ESP8266 / ESP32
-- Git & GitHub
-- AI / LLM Testing
+💻 Developer 🤖 Robotics & Embedded Systems Enthusiast 🧠 Interested in AI, LLMs & Automated Testing 🐍 Python Developer ⚙️ C# / .NET Developer 🔌 Arduino & ESP Projects 🐧 Linux User 🚀 Always building, learning and experimenting 
 
-## 🛠️ Skills
+🔭 Currently working on AI / LLM Testing & Promptfoo
 
-### Programming
-- Python
-- C#
-- C/C++
+🤖 Building projects with Arduino, ESP8266 and sensors
 
-### Robotics & Embedded
-- Arduino
-- ESP8266
-- Sensors & Modules
-- Motor Drivers
-- Embedded Systems
+🌱 Currently learning more about AI, Robotics & Software Development
 
-### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
+🧪 Interested in LLM Evaluation, Red Teaming & Automated Testing
 
-## 📌 Featured Projects
+🛠️ I enjoy turning ideas into real projects
 
-### 🤖 Robotics Projects
-Projects with Arduino, sensors, motors and embedded systems.
+⚡ Tech Stack
 
-### 🌐 Dedicated DNS Service
-A web platform for managing dedicated DNS services.
+💻 Programming
 
-### 🧪 LLM Testing
-Experiments with Promptfoo, datasets and automated testing
-for Large Language Models.
+￼ ￼ ￼ ￼ 
 
-## 📚 Currently Learning
+🤖 Robotics & Embedded
 
-- Advanced Python
-- AI & LLM
-- Robotics
-- Embedded Systems
-- Web Development
+￼ ￼ ￼ 
 
-## 📫 Contact
+🌐 Web & Tools
 
-GitHub: @YOUR_USERNAME
+￼ ￼ ￼ ￼ ￼ 
+
+🚀 Featured Projects
+
+🤖 Arduino & Robotics
+
+Embedded systems, sensors, motors, motor drivers and robotic projects.
+
+Technologies:
+Arduino C/C++ Sensors Motors L298N Embedded Systems
+
+🧠 AI & LLM Testing
+
+Exploring LLM evaluation, automated testing, datasets and red-team techniques.
+
+Technologies:
+Python Promptfoo LLM AI Testing Datasets
+
+🌐 Dedicated DNS Platform
+
+A web platform for managing dedicated DNS services, users, plans and subscriptions.
+
+Technologies:
+Python Django REST API React JWT SQLite
+
+💻 C# Projects
+
+Desktop and software projects built with C# and .NET.
+
+Technologies:
+C# .NET Windows Forms
+
+🧠 Currently Exploring
+
+AI & Large Language Models ↓ LLM Evaluation ↓ Automated Testing ↓ Red Teaming ↓ AI Security 
+
+And on the hardware side:
+
+Arduino → Sensors → Motors → Controllers → Robotics 
+
+📊 GitHub Stats
+
+￼ ￼ 
+
+🔥 Contribution Streak
+
+￼ 
+
+🐍 Contribution Snake
+
+￼ 
+
+🎯 My Goals
+
+[✓] Learn Programming [✓] Build Real Projects [✓] Explore Robotics [✓] Work with AI & LLMs [ ] Build Advanced AI Systems [ ] Build Advanced Robotics Projects [ ] Become a Professional Developer [ ] Build Something People Actually Use 🚀 
+
+📫 Connect With Me
+
+￼ ￼ 
+
+⚡ Build. Break. Learn. Repeat. ⚡ 
+
+Thanks for visiting my profile! 🚀
