@@ -1,176 +1,196 @@
-<h1 align="center">⚡ Backend Developer | Python Developer</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+Developer;Django+Developer;Cybersecurity+Enthusiast;Linux+%7C+Kali+Linux;Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
-</p>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,35:001400,70:004d1a,100:00ff41&text=MAHDIAR&fontColor=00FF41&fontSize=82&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER%20%7C%20CYBERSECURITY&descColor=FFFFFF&descAlignY=60&descSize=18&animation=twinkling"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;Django+Developer;Linux+%7C+Kali+Linux;Cybersecurity+Enthusiast;Software+Developer;Always+Learning+%7C+Always+Building" /><br><br>
 
-🧑‍💻 About Me
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/BACKEND-ACTIVE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/LINUX-ACTIVE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SECURITY-LAB-00FF41?style=for-the-badge&labelColor=050505"/><br><br>
 
-class Developer:
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/></div>---
 
-    def __init__(self):
-        self.name = "YOUR NAME"
-        self.role = "Backend Developer"
-        self.languages = [
-            "Python",
-            "C++",
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ]
+<div align="center">🟢 "WHO AM I?"
 
-        self.frameworks = [
-            "Django",
-            "React"
-        ]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+INITIALIZING+PROFILE...+%5D;%5B+LOADING+DEVELOPER+CORE...+%5D;%5B+PYTHON+ENGINE+ONLINE+%5D;%5B+LINUX+ENVIRONMENT+READY+%5D;%5B+SYSTEM+ONLINE+%5D"/></div><table>
+<tr><td width="55%">╭──────────────────────────────────────────╮
+│                                          │
+│  NAME        : MAHDIAR                   │
+│  ROLE        : BACKEND DEVELOPER         │
+│  SPECIALTY   : PYTHON / DJANGO           │
+│  INTERESTS   : CYBERSECURITY             │
+│                                          │
+│  ENVIRONMENT : LINUX                     │
+│  EDITOR      : VS CODE                   │
+│  TERMINAL    : BASH                      │
+│  MINDSET     : ALWAYS LEARNING           │
+│                                          │
+│  STATUS      : ● ONLINE                  │
+│                                          │
+╰──────────────────────────────────────────╯
 
-        self.os = [
-            "Linux",
-            "Kali Linux"
-        ]
+</td><td width="45%" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=400&height=180&lines=Hello+World!;I'm+a+Developer;Python+%7C+Django;Linux+%7C+Security;Code+%7C+Learn+%7C+Repeat"/></td></tr>
+</table>---
 
-        self.interests = [
-            "Backend Development",
-            "Cybersecurity",
-            "Networking",
-            "Linux",
-            "Automation",
-            "AI & LLMs"
-        ]
+<div align="center">⚡ "LANGUAGES"
 
-    def current_goal(self):
-        return "Build powerful systems and keep learning."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=PYTHON;JAVASCRIPT;C%2B%2B;JAVA;C%23;BASH;SQL;HTML;CSS"/><br><br>
 
----
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,cs,bash,html,css,sql&perline=9"/></div>---
 
-⚡ Tech Stack
+<div align="center">🧠 "FRAMEWORKS & LIBRARIES"
 
-💻 Programming Languages
+<br><img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,express,dotnet,bootstrap&perline=8"/><br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
-</p>🚀 Frameworks & Development
+<img src="https://img.shields.io/badge/Django-00FF41?style=for-the-badge&logo=django&logoColor=black&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FastAPI-00FF41?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=050505"/>
+<img src="https://img.shields.io/badge/Flask-00FF41?style=for-the-badge&logo=flask&logoColor=black&labelColor=050505"/>
+<img src="https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=black&labelColor=050505"/></div>---
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,react" />
-</p>🐧 Linux & Cybersecurity
+<div align="center">🛠️ "TOOLS & TECHNOLOGIES"
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
-</p>🛠️ Tools
+<br><img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode,postman,nginx,redis,mysql,postgresql,mongodb&perline=8"/><br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
-</p>---
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ubuntu,vercel,githubactions&perline=5"/></div>---
 
-🔥 What I Do
+"root@mahd i ar:~$ cat skills.txt"
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🐍 Python Backend Development              │
-│   🌐 Django & REST APIs                     │
-│   ⚛️ React Frontend                         │
-│   🗄️ Database & API Development             │
-│   🐧 Linux & Kali Linux                     │
-│   🔐 Cybersecurity & Networking              │
-│   ⚙️ Automation & Scripting                 │
-│   🤖 AI / LLM Experimentation               │
-│                                              │
-└──────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  BACKEND                                                   │
 
----
-
-🚀 Featured Projects
-
-🌐 Project 01 — DNS Service Platform
-
-«A web platform for managing and selling dedicated DNS services.»
-
-Stack: Python • Django • React • REST API • Linux
-
-🔗 "View Project" (YOUR_PROJECT_LINK)
-
----
-
-🤖 Project 02 — AI / LLM Testing
-
-«Experiments and tools for evaluating LLM applications, automated testing and red-team scenarios.»
-
-Stack: Python • Promptfoo • LLMs • Automation
-
-🔗 "View Project" (YOUR_PROJECT_LINK)
-
----
-
-🛠️ Project 03 — More Coming Soon...
-
-$ sudo apt update
-$ sudo apt upgrade
-
-> Building...
-> Learning...
-> Experimenting...
-> Deploying...
+│  ├── Python                                                │
+│  ├── Django                                                │
+│  ├── Flask                                                 │
+│  ├── FastAPI                                               │
+│  ├── REST APIs                                             │
+│  └── Backend Architecture                                  │
+│                                                            │
+│  FRONTEND                                                  │
+│  ├── HTML5                                                 │
+│  ├── CSS3                                                  │
+│  ├── JavaScript                                             │
+│  └── React                                                 │
+│                                                            │
+│  PROGRAMMING                                               │
+│  ├── Python                                                │
+│  ├── C++                                                   │
+│  ├── C#                                                    │
+│  ├── Java                                                  │
+│  ├── JavaScript                                             │
+│  ├── SQL                                                   │
+│  └── Bash                                                  │
+│                                                            │
+│  SYSTEMS                                                   │
+│  ├── Linux                                                 │
+│  ├── Ubuntu                                                 │
+│  ├── Kali Linux                                             │
+│  ├── Bash                                                  │
+│  └── Nginx                                                 │
+│                                                            │
+│  DATABASES                                                 │
+│  ├── MySQL                                                 │
+│  ├── PostgreSQL                                            │
+│  ├── MongoDB                                               │
+│  └── Redis                                                 │
+│                                                            │
+│  DEV TOOLS                                                 │
+│  ├── Git                                                   │
+│  ├── GitHub                                                │
+│  ├── Docker                                                │
+│  ├── VS Code                                               │
+│  └── Postman                                               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 
 ---
 
-📊 GitHub Stats
+<div align="center">🔐 "AREAS OF INTEREST"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
-</p>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1700&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity;Linux+%26+Networking;Backend+Engineering;API+Development;Automation;Artificial+Intelligence;LLM+Security;System+Administration"/><br><br>
 
-🧠 Currently Learning
+<table>
+<tr>
+<td align="center">🐍<br><b>BACKEND</b></td>
+<td align="center">🔐<br><b>SECURITY</b></td>
+<td align="center">🐧<br><b>LINUX</b></td>
+<td align="center">🌐<br><b>NETWORKING</b></td>
+</tr><tr>
+<td align="center">🤖<br><b>AI / LLM</b></td>
+<td align="center">⚙️<br><b>AUTOMATION</b></td>
+<td align="center">🗄️<br><b>DATABASES</b></td>
+<td align="center">☁️<br><b>DEVOPS</b></td>
+</tr>
+</table></div>---
 
-[+] Advanced Python
-[+] Django & REST API
-[+] React
-[+] Linux
-[+] Networking
-[+] Cybersecurity
-[+] Docker
-[+] AI / LLM
-[+] System Design
+<div align="center">🖥️ "DEVELOPER TERMINAL"
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  root@mahd i ar:~$ python --version                         │
+│  Python 3.x                                                 │
+│                                                              │
+│  root@mahd i ar:~$ django-admin --version                   │
+│  Django                                                      │
+│                                                              │
+│  root@mahd i ar:~$ uname -a
+
+│
+│  Linux x86_64                                               │
+│                                                              │
+│  root@mahd i ar:~$ git --version                            │
+│  git version 2.x                                            │
+│                                                              │
+│  root@mahd i ar:~$ systemctl status developer               │
+│                                                              │
+│  ● developer.service                                        │
+│      Active: active (running)                               │
+│                                                              │
+│  root@mahd i ar:~$ echo $MINDSET                            │
+│  LEARN • BUILD • EXPLORE • IMPROVE                          │
+│                                                              │
+│  root@mahd i ar:~$ █                                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+</div>---
+
+<div align="center">📊 "GITHUB ANALYTICS"
+
+<br><img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=FFFFFF"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&hide_border=true"/></div>---
+
+<div align="center">🟩 "CONTRIBUTION MATRIX"
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY"/><br><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/></div>---
+
+<div align="center">🏆 "ACHIEVEMENTS"
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"/></div>---
+
+"root@mahd i ar:~$ cat philosophy.txt"
+
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│  "The best way to predict the future              │
+│   is to build it."                                │
+│                                                    │
+│  Learn → Build → Break → Understand → Improve     │
+│                                                    │
+╰────────────────────────────────────────────────────╯
 
 ---
 
-🌐 Connect With Me
+<div align="center">🌐 "CONNECT"
 
-<p align="center"><a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a><a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a><a href="YOUR_TELEGRAM_LINK">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41"/>
-</a><a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
-</a></p>---
+<img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
+</a><a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a><br><br>
 
-💀 Terminal
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%BE;Keep+Learning.;Keep+Building.;Keep+Exploring.;See+you+in+the+terminal..."/></div>---
 
-┌──(developer㉿github)-[~/projects]
-└─$ whoami
-
-Backend Developer
-
-┌──(developer㉿github)-[~/projects]
-└─$ cat motivation.txt
-
-Ne
-
-ver stop learning.
-Never stop building.
-Never stop breaking limits.
-
-┌──(developer㉿github)-[~/projects]
-└─$ _
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer"/>
-</p><h3 align="center">
-  ⚡ Code. Build. Break. Learn. Repeat. ⚡
-</h3>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00ff41,35:004d1a,70:001400,100:000000&section=footer&animation=twinkling"/></div>
