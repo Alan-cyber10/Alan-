@@ -187,7 +187,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a><a href="YOUR_TELEGRAM_LINK">
 <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
-</a><a href="mailto:YOUR_EMAIL">
+</a><a href="mailto:m.mahdiar1387@gmail.com>
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a><br><br>
 
