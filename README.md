@@ -31,9 +31,9 @@
 
 <div align="center">⚡ "LANGUAGES"
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=PYTHON;JAVASCRIPT;C%2B%2B;C%23;BASH;SQL;HTML;CSS"/><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=PYTHON;JAVASCRIPT;C%2B%2B;C%23;BASH;JAVA;SQL;HTML;CSS"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,cs,bash,html,css,sql&perline=9"/></div>---
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,cs,bash,html,css,sql&perline=9"/></div>---
 
 <div align="center">🧠 "FRAMEWORKS & LIBRARIES"
 
